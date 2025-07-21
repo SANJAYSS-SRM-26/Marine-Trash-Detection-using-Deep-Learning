@@ -1,4 +1,4 @@
- 🌊 Marine Trash Detection using Deep Learning
+# Marine Trash Detection using Deep Learning
 
 ## 🧠 Overview
 
